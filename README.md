@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="35px" src="https://user-images.githubusercontent.com/54285416/136924674-3c1d7e74-ce0b-4e6c-8322-ca6074d15018.png" />][twitter]
+[<img align="left" alt="Telegram" width="35px" src="https://user-images.githubusercontent.com/54285416/136924674-3c1d7e74-ce0b-4e6c-8322-ca6074d15018.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/54285416/136924672-1f64492c-ab25-4c40-9f44-6a9582e1aa71.png" />][linkedin]
 [<img align="left" alt="Instagram" width="35px" src="https://user-images.githubusercontent.com/54285416/136924667-c79f3b41-f555-4d9b-89aa-261cbf550b58.png" />][instagram]
 [<img align="left" alt="Facebook" width="35px" src="https://user-images.githubusercontent.com/54285416/136924670-6eb234fb-ee00-48db-b929-a1e9a8e0f6bb.png"/>][facebook]

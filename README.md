@@ -23,7 +23,7 @@
 
 [<img align="left" alt="Telegram" width="35px" src="https://user-images.githubusercontent.com/58632996/125951636-a8139f32-6854-4693-b8dd-37b51a7fe18f.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/58632996/125951536-c2f46165-6ef5-478c-a9d3-2dc0b708b9f8.png" />][linkedin]
-[<img align="left" alt="Instagram" width="35px" src="" />][instagram]
+[<img align="left" alt="Instagram" width="35px" src="https://user-images.githubusercontent.com/54285416/136922929-54436650-6997-4b5a-9295-828bccdeb237.png" />][instagram]
 [<img align="left" alt="Facebook" width="35px" src="https://user-images.githubusercontent.com/58632996/125951423-b293aa18-64c4-4429-9d89-91b79d35ce1b.png"/>][facebook]
 
 <br />

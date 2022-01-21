@@ -42,4 +42,3 @@
 Vaitsehovskiy-Tony/Vaitsehovskiy-Tony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![70340673](https://user-images.githubusercontent.com/54285416/150485732-0035f093-248a-40d4-9f69-0d89dfe43814.jpg)

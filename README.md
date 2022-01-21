@@ -26,6 +26,7 @@
 [<img align="left" alt="Instagram" width="35px" src="https://user-images.githubusercontent.com/54285416/136924667-c79f3b41-f555-4d9b-89aa-261cbf550b58.png" />][instagram]
 [<img align="left" alt="Facebook" width="35px" src="https://user-images.githubusercontent.com/54285416/136924670-6eb234fb-ee00-48db-b929-a1e9a8e0f6bb.png"/>][facebook]
 [<img align="left" alt="Facebook" width="35px" src="https://user-images.githubusercontent.com/54285416/136924614-08563dd9-817b-443f-b598-ed34faf113c4.png"/>][vk]
+[<img align="left" alt="Bot" width="35px" src="https://user-images.githubusercontent.com/54285416/150485732-0035f093-248a-40d4-9f69-0d89dfe43814.jpg"/>][bot]
 
 <br />
 </details>
@@ -35,8 +36,10 @@
 [linkedin]: https://www.linkedin.com/in/tonyvaits/
 [facebook]: https://www.facebook.com/tony.vaits/
 [vk]: https://vk.com/tonyvaits/
+[bot]: https://t.me/fb_for_tony_bot
 
 <!---
 Vaitsehovskiy-Tony/Vaitsehovskiy-Tony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![70340673](https://user-images.githubusercontent.com/54285416/150485732-0035f093-248a-40d4-9f69-0d89dfe43814.jpg)

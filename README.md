@@ -10,6 +10,7 @@
 <img align="left" alt="nextjs-logo-dark" width="65px" src="https://github.com/user-attachments/assets/fcf9acc2-52f7-4eae-8cb6-f3c74a140d63" />
 <img align="left" alt="TypeScript" width="65px" src="https://github.com/user-attachments/assets/753f0381-c87e-4a31-9b75-9dd577e9570d" />
 <img align="left" alt="React" width="65px" src="https://user-images.githubusercontent.com/54285416/136925032-73d87144-308b-46bc-990f-eb2ae7c70ea9.png" />
+<img align="left" alt="Python" width="65px" src="https://github.com/user-attachments/assets/b8afc427-2467-45bb-8408-c61820caf4c2" />
 <img align="left" alt="Strapi.js" width="60px" src="https://github.com/user-attachments/assets/c9da53e1-cb2e-40bd-bd90-afa481a22c8d" />
 <img align="left" alt="Ubuntu" width="60px" src="https://github.com/user-attachments/assets/0ae153b0-2dae-46f9-9575-efb1c0409115" />
 <img align="left" alt="HTML5" width="65px" src="https://user-images.githubusercontent.com/54285416/136925005-6bbf0f97-6831-4b31-baae-91981b07b3d1.png" />

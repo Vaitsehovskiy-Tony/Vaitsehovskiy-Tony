@@ -7,6 +7,13 @@
 
 :zap: What do I use? <br>
 
+
+<img align="left" alt="TypeScript" width="65px" src="https://github.com/user-attachments/assets/753f0381-c87e-4a31-9b75-9dd577e9570d" />
+<img align="left" alt="nextjs-logo-dark" width="65px" src="https://github.com/user-attachments/assets/fcf9acc2-52f7-4eae-8cb6-f3c74a140d63" />
+<img align="left" alt="Strapi.js" width="60px" src="https://github.com/user-attachments/assets/c9da53e1-cb2e-40bd-bd90-afa481a22c8d" />
+<img align="left" alt="Ubuntu" width="60px" src="https://github.com/user-attachments/assets/29c7afd1-536a-4200-b9cf-e72933a24dd7" />
+
+
 <img align="left" alt="HTML5" width="65px" src="https://user-images.githubusercontent.com/54285416/136925005-6bbf0f97-6831-4b31-baae-91981b07b3d1.png" />
 <img align="left" alt="CSS3" width="65px" src="https://user-images.githubusercontent.com/54285416/136925015-28bac4af-d465-4656-badb-c79acbb39e44.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://user-images.githubusercontent.com/54285416/136925026-0ddc79c0-a12f-4510-b7fc-e3ddb55ed416.png" />
@@ -42,3 +49,4 @@
 Vaitsehovskiy-Tony/Vaitsehovskiy-Tony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![60f75dad-d628-4233-b792-5b3ded849869-profile_image-300x300]()

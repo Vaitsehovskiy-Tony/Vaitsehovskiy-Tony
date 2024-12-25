@@ -7,17 +7,14 @@
 
 :zap: What do I use? <br>
 
-
-<img align="left" alt="TypeScript" width="65px" src="https://github.com/user-attachments/assets/753f0381-c87e-4a31-9b75-9dd577e9570d" />
 <img align="left" alt="nextjs-logo-dark" width="65px" src="https://github.com/user-attachments/assets/fcf9acc2-52f7-4eae-8cb6-f3c74a140d63" />
+<img align="left" alt="TypeScript" width="65px" src="https://github.com/user-attachments/assets/753f0381-c87e-4a31-9b75-9dd577e9570d" />
+<img align="left" alt="React" width="65px" src="https://user-images.githubusercontent.com/54285416/136925032-73d87144-308b-46bc-990f-eb2ae7c70ea9.png" />
 <img align="left" alt="Strapi.js" width="60px" src="https://github.com/user-attachments/assets/c9da53e1-cb2e-40bd-bd90-afa481a22c8d" />
-<img align="left" alt="Ubuntu" width="60px" src="https://github.com/user-attachments/assets/29c7afd1-536a-4200-b9cf-e72933a24dd7" />
-
-
+<img align="left" alt="Ubuntu" width="60px" src="https://github.com/user-attachments/assets/0ae153b0-2dae-46f9-9575-efb1c0409115" />
 <img align="left" alt="HTML5" width="65px" src="https://user-images.githubusercontent.com/54285416/136925005-6bbf0f97-6831-4b31-baae-91981b07b3d1.png" />
 <img align="left" alt="CSS3" width="65px" src="https://user-images.githubusercontent.com/54285416/136925015-28bac4af-d465-4656-badb-c79acbb39e44.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://user-images.githubusercontent.com/54285416/136925026-0ddc79c0-a12f-4510-b7fc-e3ddb55ed416.png" />
-<img align="left" alt="React" width="65px" src="https://user-images.githubusercontent.com/54285416/136925032-73d87144-308b-46bc-990f-eb2ae7c70ea9.png" />
 <img align="left" alt="Git" width="65px" src="https://user-images.githubusercontent.com/54285416/136925467-c4cdc61b-b0bb-43a1-8583-f400cd74c8d9.png" />
 <img align="left" alt="GitHub" width="65px" src="https://user-images.githubusercontent.com/54285416/136925512-e8d9161d-3819-4e07-83cb-a84b89cf3eb2.png" />
 <img alt="Terminal" width="65px" src="https://user-images.githubusercontent.com/54285416/136925563-5f2bddfa-3ccd-4f69-b023-faff83f684ad.png" />

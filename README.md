@@ -22,7 +22,7 @@
 <img align="left" alt="Nodejs" width="90px" src="https://user-images.githubusercontent.com/54285416/136925068-9990dce8-1a62-40d0-bf46-1523e85b5250.png" />
 <img alt="MongoDB" width="90px" src="https://user-images.githubusercontent.com/54285416/136925073-a1e420fa-d9d9-4064-8b2e-dafd4eb5ae7d.png" />
 
-### I want to improve as a front-end developer and work with professionals.<br>
+### I aspire to grow as a front-end developer and collaborate with a team of professionals.<br>
 
 ### Connect with me:
 

@@ -1,6 +1,6 @@
 # Hi, I'm Tony 👋
 
-### I'm junior web developer from Russia :ru: <br>
+### I'm Full Stack developer from Israel 🇮🇱: <br>
 :zap: What do I do? <br>
 
 ### I create adaptive responsive cross-browser web applications.
